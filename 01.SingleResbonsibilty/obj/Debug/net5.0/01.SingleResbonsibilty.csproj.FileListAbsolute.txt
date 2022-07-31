@@ -1,0 +1,16 @@
+C:\Users\Lenovo\Desktop\SOLID\SOLID\01.SingleResbonsibilty\bin\Debug\net5.0\01.SingleResbonsibilty.exe
+C:\Users\Lenovo\Desktop\SOLID\SOLID\01.SingleResbonsibilty\bin\Debug\net5.0\01.SingleResbonsibilty.deps.json
+C:\Users\Lenovo\Desktop\SOLID\SOLID\01.SingleResbonsibilty\bin\Debug\net5.0\01.SingleResbonsibilty.runtimeconfig.json
+C:\Users\Lenovo\Desktop\SOLID\SOLID\01.SingleResbonsibilty\bin\Debug\net5.0\01.SingleResbonsibilty.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\SOLID\SOLID\01.SingleResbonsibilty\bin\Debug\net5.0\01.SingleResbonsibilty.dll
+C:\Users\Lenovo\Desktop\SOLID\SOLID\01.SingleResbonsibilty\bin\Debug\net5.0\01.SingleResbonsibilty.pdb
+C:\Users\Lenovo\Desktop\SOLID\SOLID\01.SingleResbonsibilty\obj\Debug\net5.0\01.SingleResbonsibilty.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\SOLID\SOLID\01.SingleResbonsibilty\obj\Debug\net5.0\01.SingleResbonsibilty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\SOLID\SOLID\01.SingleResbonsibilty\obj\Debug\net5.0\01.SingleResbonsibilty.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\SOLID\SOLID\01.SingleResbonsibilty\obj\Debug\net5.0\01.SingleResbonsibilty.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\SOLID\SOLID\01.SingleResbonsibilty\obj\Debug\net5.0\01.SingleResbonsibilty.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\SOLID\SOLID\01.SingleResbonsibilty\obj\Debug\net5.0\01.SingleResbonsibilty.dll
+C:\Users\Lenovo\Desktop\SOLID\SOLID\01.SingleResbonsibilty\obj\Debug\net5.0\refint\01.SingleResbonsibilty.dll
+C:\Users\Lenovo\Desktop\SOLID\SOLID\01.SingleResbonsibilty\obj\Debug\net5.0\01.SingleResbonsibilty.pdb
+C:\Users\Lenovo\Desktop\SOLID\SOLID\01.SingleResbonsibilty\obj\Debug\net5.0\01.SingleResbonsibilty.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\SOLID\SOLID\01.SingleResbonsibilty\obj\Debug\net5.0\ref\01.SingleResbonsibilty.dll
